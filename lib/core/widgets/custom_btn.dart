@@ -20,7 +20,7 @@ class CustomBtn extends StatelessWidget {
                 borderRadius: BorderRadius.circular(10))),
         child: Text(text,
             style: CustomTextStyles.poppins500style24
-                .copyWith(fontSize: 18, color: AppColors.offWhite)),
+                .copyWith(fontSize: 30, color: AppColors.offWhite)),
       ),
     );
   }
